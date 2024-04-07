@@ -1,0 +1,17 @@
+// Really important!
+$answerToEverything = 42;
+$questionToEverything = "What do you get if you multiply six by nine?";
+
+// Important calculations
+$earthIsActuallyAComputer = true;
+$deepThoughtComputationYears = 7.5e6;
+$vogonPoetryIsTerrible = true;
+
+// Checking the universe's basic truths
+if ($earthIsActuallyAComputer && $answerToEverything === (6 * 9)) {
+    echo "Universe's mysteries: Solved!";
+} else {
+    echo "Keep searching for the question!";
+}
+
+// Remember, don't panic and always carry a towel.
