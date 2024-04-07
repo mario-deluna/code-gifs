@@ -117,12 +117,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpgl/visu.git",
-                "reference": "b33e1b8376ddc0879d5a65e87a28cdf54c177268"
+                "reference": "3f4e072320289aef6799bd487c551c16cf02dbfd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpgl/visu/zipball/b33e1b8376ddc0879d5a65e87a28cdf54c177268",
-                "reference": "b33e1b8376ddc0879d5a65e87a28cdf54c177268",
+                "url": "https://api.github.com/repos/phpgl/visu/zipball/3f4e072320289aef6799bd487c551c16cf02dbfd",
+                "reference": "3f4e072320289aef6799bd487c551c16cf02dbfd",
                 "shasum": ""
             },
             "require": {
@@ -137,6 +137,9 @@
                 "phpunit/phpunit": "^9.5"
             },
             "default-branch": true,
+            "bin": [
+                "bin/visu"
+            ],
             "type": "library",
             "extra": {
                 "container": {
@@ -157,7 +160,7 @@
                 "issues": "https://github.com/phpgl/visu/issues",
                 "source": "https://github.com/phpgl/visu/tree/master"
             },
-            "time": "2024-03-28T08:35:04+00:00"
+            "time": "2024-04-07T21:36:30+00:00"
         },
         {
             "name": "psr/log",
@@ -266,16 +269,16 @@
         },
         {
             "name": "tempest/highlight",
-            "version": "1.2.1",
+            "version": "1.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tempestphp/highlight.git",
-                "reference": "f7938f4378e0371aa2034feb967cb5e02ff1ef52"
+                "reference": "934fce8d021f40461f41bb9c418e3402588fa51e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tempestphp/highlight/zipball/f7938f4378e0371aa2034feb967cb5e02ff1ef52",
-                "reference": "f7938f4378e0371aa2034feb967cb5e02ff1ef52",
+                "url": "https://api.github.com/repos/tempestphp/highlight/zipball/934fce8d021f40461f41bb9c418e3402588fa51e",
+                "reference": "934fce8d021f40461f41bb9c418e3402588fa51e",
                 "shasum": ""
             },
             "require": {
@@ -307,7 +310,7 @@
             "description": "Fast, extensible, server-side code highlighting",
             "support": {
                 "issues": "https://github.com/tempestphp/highlight/issues",
-                "source": "https://github.com/tempestphp/highlight/tree/1.2.1"
+                "source": "https://github.com/tempestphp/highlight/tree/1.3.1"
             },
             "funding": [
                 {
@@ -315,7 +318,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-04-02T11:41:48+00:00"
+            "time": "2024-04-06T05:57:13+00:00"
         }
     ],
     "packages-dev": [
@@ -325,12 +328,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpgl/ide-stubs.git",
-                "reference": "27c202580e660029f36a2e35721ba888a0772854"
+                "reference": "3c7bef7a44bbbe236f60b77843a4142d9592099a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpgl/ide-stubs/zipball/27c202580e660029f36a2e35721ba888a0772854",
-                "reference": "27c202580e660029f36a2e35721ba888a0772854",
+                "url": "https://api.github.com/repos/phpgl/ide-stubs/zipball/3c7bef7a44bbbe236f60b77843a4142d9592099a",
+                "reference": "3c7bef7a44bbbe236f60b77843a4142d9592099a",
                 "shasum": ""
             },
             "require": {
@@ -368,7 +371,7 @@
                 "issues": "https://github.com/phpgl/ide-stubs/issues",
                 "source": "https://github.com/phpgl/ide-stubs/tree/main"
             },
-            "time": "2024-01-12T23:17:29+00:00"
+            "time": "2024-04-07T20:25:36+00:00"
         }
     ],
     "aliases": [],
