@@ -1,2 +1,5 @@
 /var/cache/*
 /vendor/
+output.gif
+palette.png
+output.mp4
