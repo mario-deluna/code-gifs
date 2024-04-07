@@ -2,7 +2,9 @@
 
 Generate a GIF from a code snippet using Tempest Highlight & PHP-GLFW.
 
-This is the source code for the following blog post.
+This is the source code for the following [blog post](https://station.clancats.com/creating-animated-code-snippets-with-tempest-highlighting-and-php-glfw/).
+
+![output](https://github.com/mario-deluna/code-gifs/assets/956212/225809ce-d92d-4910-ac71-d9594109825f)
 
 ## Installation
 
